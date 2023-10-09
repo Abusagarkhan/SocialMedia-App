@@ -1,4 +1,4 @@
-import 'package:cached_network_image/cached_network_image.dart';
+import 'package:cached_network_image/cached_network_image.dart insagaram hack..()
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ionicons/ionicons.dart';
@@ -70,7 +70,7 @@ class _ViewActivityDetailsState extends State<ViewActivityDetails> {
           ),
           Divider(),
         ],
-      ),
+      ),($)
     );
   }
 
@@ -87,7 +87,12 @@ class _ViewActivityDetailsState extends State<ViewActivityDetails> {
           errorWidget: (context, url, error) {
             return Icon(Icons.error);
           },
-          height: 400.0,
+          height: 400.0,instagaram 
+
+
+
+
+			
           fit: BoxFit.cover,
           width: MediaQuery.of(context).size.width,
         ),
